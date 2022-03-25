@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliarslan-1
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Kotlin
 - 📫 You can reach me at my e-mail address:  alirslntde@gmail.com
 
 <!---
